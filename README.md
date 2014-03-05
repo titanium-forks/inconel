@@ -12,6 +12,9 @@ Prototype for Windows-compatible Hyperloop code generation from Alloy. This is c
 ## Creating the Hyperloop app
 
 ```
+# install dependencies
+npm install
+
 # compile with alloy (inconel branch)
 alloy compile --platform windows --hyperloop
 
